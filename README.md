@@ -1,3 +1,6 @@
+# Redux Saga with Redux Toolkit
+
+![original](https://github.com/VishalMakwana23/react-redux-toolkit-saga/assets/70998696/a9eccac3-b0d0-44f4-8deb-c7e3f7ba23cc)
 
 ## Introduction
 In today’s fast-paced digital world, real-time applications are in high demand. These applications provide users with instant updates and interactions, making them ideal for messaging, collaboration, and any scenario where timely data updates are crucial. Building a real-time application with React Native can be a rewarding and challenging endeavor. In this blog post, we will explore how to achieve real-time capabilities in your React Native app using Redux-Saga, a middleware library that can help manage asynchronous actions and handle real-time data effectively.
@@ -27,15 +30,6 @@ Ensuring that all clients have a consistent view of the data, even in the presen
 Redux-Saga is a popular middleware library that works seamlessly with Redux to manage side effects and asynchronous actions. It’s particularly well-suited for building real-time applications due to its support for handling asynchronous tasks, including server-sent events, WebSockets, and more.
 
 Here’s how Redux-Saga can help you build real-time capabilities in your React Native app:
-
-# Redux Saga with Redux Toolkit
-
-
-![original](https://github.com/VishalMakwana23/react-redux-toolkit-saga/assets/70998696/a9eccac3-b0d0-44f4-8deb-c7e3f7ba23cc)
-
-
-
-
 
 ### 1. Handling Asynchronous Actions: 
 
