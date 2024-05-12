@@ -1,1 +1,2 @@
- 
+Introduction
+In today’s fast-paced digital world, real-time applications are in high demand. These applications provide users with instant updates and interactions, making them ideal for messaging, collaboration, and any scenario where timely data updates are crucial. Building a real-time application with React Native can be a rewarding and challenging endeavor. In this blog post, we will explore how to achieve real-time capabilities in your React Native app using Redux-Saga, a middleware library that can help manage asynchronous actions and handle real-time data effectively. 
